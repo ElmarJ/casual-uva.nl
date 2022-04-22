@@ -1,0 +1,49 @@
+/* Header Nav */
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Source Code Pro', monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main, main article, header {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+header nav ul {
+	padding: 0;
+	list-style: none;
+}
+
+header nav ul :first-child {
+	margin-left: 0;
+}
+
+header nav li {
+	display: inline-block;
+	margin: 0 .25em;
+}
+
+header nav li a {
+	padding: .25em .5em;
+	border-radius: .25em;
+}
+
+header nav li a[href]:not(:hover) {
+	text-decoration: none;
+}
+
+header nav li a[data-current="current item"] {
+	background-color: white;
+}
