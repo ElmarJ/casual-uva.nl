@@ -3,22 +3,29 @@
 
 html,
 body {
-  padding: 0;
-  margin: 0;
   font-family: 'Source Code Pro', monospace;
 }
 
-* {
-  box-sizing: border-box;
+header {
+  text-align: center;
+  padding: 20px;
 }
 
-main, main article, header {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+header nav {
+  overflow: hidden;
+}
+
+header nav a {
+  float: left;
+  display: block;
   text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  background-color: #ddd;
+  color: black;
 }
 
 header nav ul {
@@ -44,6 +51,14 @@ header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
-	background-color: white;
+main, footer {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: small;
 }
