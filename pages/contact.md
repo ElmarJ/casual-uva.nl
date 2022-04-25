@@ -2,12 +2,12 @@
 layout: layouts/contact.njk
 title: Get in touch
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
-section: contact2
+section: contact
 date: 2018-01-01
-permalink: /contact2/index.html
-# eleventyNavigation:
-#  key: Contact
-#  order: 3
+permalink: /contact/index.html
+eleventyNavigation:
+ key: Contact
+ order: 3
 ---
 
 Join email distribution list: https://lists.riseup.net/www/subscribe/casualuva
