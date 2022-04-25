@@ -13,6 +13,7 @@ header {
 
 header nav {
   overflow: hidden;
+  font-weight: bold;
 }
 
 header nav a {
