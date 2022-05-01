@@ -4,11 +4,19 @@
 	<body>
 		<header>
 			<p>
-				<img src="/static/img/logo.jpg" alt="Casual UvA (logo)">
+				<img src="/static/img/logo.jpg" alt="Casual UvA (logo)" height="100px" width="100px">
 			</p>
-			<h1 className="title">{{ metadata.title }}</h1>
+			<h1 class="title">{{ metadata.title }}</h1>
 			{% include "components/nav.njk" %}
 		</header>
+		<section class="tiktok">
+			<h2>Tiktok</h2>
+			{% include "components/tiktokfeed.njk" %}
+		</section>
+		<section class="tweets">
+			<h2>Twitter</h2>
+			{% include "components/twitterfeed.njk" %}
+		</section>
 		<main>
 			{{ layoutContent | safe }}
 		</main>

@@ -4,3 +4,12 @@ section: home
 ---
 
 {{ layoutContent | safe }}
+
+
+<section class="newslist">
+<h2>News</h2>
+
+{% set postslist = collections.post %}
+{% include "components/postslist.njk" %}
+
+</section

@@ -6,7 +6,10 @@ permalink: /news/index.html
 
 {{ layoutContent | safe }}
 
+<section class="newslist">
 <h2>{{ title }}</h2>
 
 {% set postslist = collections.post %}
 {% include "components/postslist.njk" %}
+
+</section
