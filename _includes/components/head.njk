@@ -3,6 +3,7 @@
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <link rel="icon" href="/static/img/logo.jpg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -14,4 +15,16 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:title" content="{{ title | escape }}"/>
+  {% if summary %}
+  <meta property="og:description" content="{{ summary | escape }}" />
+  <meta property="og:image" content="http://casual-uva.nl/static/img/logo.jpg" />
+  <meta property="og:type" content="article" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ title | escape }}" />
+  <meta name="twitter:description" content="{{ summary | escape }}" />
+  <meta name="twitter:image" content="http://casual-uva.nl/static/img/logo.jpg" />
+  {% endif %}
+
 </head>
