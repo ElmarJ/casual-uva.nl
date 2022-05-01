@@ -1,5 +1,5 @@
 ---
-title: "Article YOUvATODAY: Why are our tutors striking?"
+title: 'YOUvATODAY: "Why are our tutors striking?"'
 date: 2022-04-12T14:19:39.019Z
 author: Casual UvA
 summary: '"On April 1st, whoever passed by the Maagdenhuis, would notice that
