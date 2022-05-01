@@ -2,7 +2,10 @@
 title: Item AT5
 date: 2022-04-01T19:01:00.000Z
 author: Casual UvA
-summary: "\"Zo'n vijftig jonge docenten van de UvA demonstreerden vanmiddag bij het Maagdenhuis voor betere arbeidsomstandigheden. Doorn in het oog zijn de tijdelijke contracten waar de Universiteit van Amsterdam mee werkt.\" With Video!"
+summary: "AT5: \"Zo'n vijftig jonge docenten van de UvA demonstreerden vanmiddag
+  bij het Maagdenhuis voor betere arbeidsomstandigheden. Doorn in het oog zijn
+  de tijdelijke contracten waar de Universiteit van Amsterdam mee werkt.\" With
+  Video!"
 ---
 
 On AT5:
