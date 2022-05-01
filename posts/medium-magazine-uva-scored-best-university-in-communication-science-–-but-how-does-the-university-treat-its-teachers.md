@@ -1,7 +1,7 @@
 ---
 title: 'Medium Magazine: "UvA Scored Best University in Communication Science –
   But How Does The University Treat Its Teachers?"'
-date: 2022-05-01T14:22:24.376Z
+date: 2022-04-16T14:22:24.376Z
 author: Anonymous
 summary: “When do we get our grades back?” is probably one of the questions
   heard most often by any teacher. And from my experience, the teachers at the
