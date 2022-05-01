@@ -36,14 +36,6 @@ The strike is about three core issues: teachers ...
 * In the past rounds of negotiations, the positions/interests of D4-teachers have been insufficiently addressed.
 * By having the strike now, we want to prevent this from happening again.
 
-## Objectives
-
-What are our objectives?
-
-* To address systemic overwork and exploitation
-* To promote visibility of issues experienced by those on temporary teaching contracts, namely precarity 
-* To petition and demand for implementation of changes/better working conditions for temporary contract teachers 
-
 ## Demands
 
 What are the demands?
