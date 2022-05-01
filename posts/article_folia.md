@@ -1,8 +1,11 @@
 ---
-title: Article Folia
+title: 'Article Folia: "Casual UvA kondigt nakijkstaking aan, eist meer vaste
+  contracten"'
 date: 2022-04-03T18:43:00.000Z
 author: Casual UvA
-summary: "\"Casual UvA, een actiegroep met zo’n twintig medewerkers met een tijdelijk contract, houdt in blok 4 een nakijkstaking om aandacht te vragen voor de positie van medewerkers met tijdelijke aanstellingen.\" (Folia)"
+summary: 'Folia: "Casual UvA, een actiegroep met zo’n twintig medewerkers met
+  een tijdelijk contract, houdt in blok 4 een nakijkstaking om aandacht te
+  vragen voor de positie van medewerkers met tijdelijke aanstellingen."'
 ---
 
 In _Folia_ of April 1:
