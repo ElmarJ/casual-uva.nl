@@ -1,5 +1,6 @@
 ---
-title: Item AT5
+title: 'Item on AT5: "Jonge docenten van de UvA strijden voor vast contract:
+  "Ervaring krijgt zo geen kans"'
 date: 2022-04-01T19:01:00.000Z
 author: Casual UvA
 summary: "AT5: \"Zo'n vijftig jonge docenten van de UvA demonstreerden vanmiddag
