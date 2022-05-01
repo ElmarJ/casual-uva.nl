@@ -19,6 +19,15 @@ body {
   grid-template-rows: auto auto auto;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
 .twitter,
 .tiktok,
 main,
@@ -61,12 +70,6 @@ header nav a {
   display: block;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
-}
-
-header nav a:hover {
-  background-color: #ddd;
-  color: black;
 }
 
 header nav ul {
