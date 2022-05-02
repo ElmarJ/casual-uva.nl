@@ -28,6 +28,10 @@ a:hover {
   color: black;
 }
 
+a, a:visited {
+  color: #55F;
+}
+
 .socials2,
 .socials1,
 main,
