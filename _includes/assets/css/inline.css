@@ -12,11 +12,11 @@ body {
 
 body {
   display: grid;
-  grid-template-areas: 
-  'header header header header header header' 
-  'tiktok main main main main twitter' 
-  'footer footer footer footer footer footer';
-  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    'header header header'
+    'socials1 main socials2'
+    'footer footer footer';
+  grid-template-columns: 380px auto 380px;
 }
 
 a {
@@ -28,20 +28,20 @@ a:hover {
   color: black;
 }
 
-.twitter,
-.tiktok,
+.socials2,
+.socials1,
 main,
 .newsheadings {
   padding: 10px;
 }
 
 /* Style the left column */
-.tiktok {
-  grid-area: tiktok;
+.socials1 {
+  grid-area: socials1;
 }
 
-.twitter {
-  grid-area: twitter;
+.socials2 {
+  grid-area: socials2;
 }
 
 /* Style the middle column */
@@ -73,29 +73,30 @@ header nav a {
 }
 
 header nav ul {
-	padding: 0;
-	list-style: none;
+  padding: 0;
+  list-style: none;
 }
 
 header nav ul :first-child {
-	margin-left: 0;
+  margin-left: 0;
 }
 
 header nav li {
-	display: inline-block;
-	margin: 0 .25em;
+  display: inline-block;
+  margin: 0 .25em;
 }
 
 header nav li a {
-	padding: .25em .5em;
-	border-radius: .25em;
+  padding: .25em .5em;
+  border-radius: .25em;
 }
 
 header nav li a[href]:not(:hover) {
-	text-decoration: none;
+  text-decoration: none;
 }
 
-main, footer {
+main,
+footer {
   padding: 20px;
   max-width: 800px;
   margin-left: auto;
@@ -118,13 +119,24 @@ footer {
   font-size: small;
 }
 
-@media (max-width: 900px) {
-  body  {
-    grid-template-areas: 
-      'header header header header header header' 
-      'main main main main main main' 
-      'footer footer footer footer footer footer'
-      'tiktok tiktok tiktok tiktok tiktok tiktok'
-      'twitter twitter twitter twitter twitter twitter';
+@media (max-width: 1200px) {
+  body {
+    grid-template-areas:
+      'header header header'
+      'main main socials1'
+      'main main socials2'
+      'footer footer footer'
+  }
+
+  @media (max-width: 800px) {
+    body {
+      grid-template-areas:
+        'header'
+        'main'
+        'footer'
+        'socials1'
+        'socials2';
+      grid-template-columns: auto;
+    }
   }
 }
