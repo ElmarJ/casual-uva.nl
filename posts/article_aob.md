@@ -5,6 +5,8 @@ author: Casual UvA
 summary: 'AOB: "Several employees at the University of Amsterdam (UvA) have
   stopped checking to draw attention to the temporary contracts of junior
   lecturers. The promotion has been proclaimed by Casual UvA."'
+tags:
+  - media
 ---
 Algemene Onderwijsbond:
 
