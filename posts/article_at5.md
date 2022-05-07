@@ -7,6 +7,8 @@ summary: "AT5: \"Zo'n vijftig jonge docenten van de UvA demonstreerden vanmiddag
   bij het Maagdenhuis voor betere arbeidsomstandigheden. Doorn in het oog zijn
   de tijdelijke contracten waar de Universiteit van Amsterdam mee werkt.\" With
   Video!"
+tags:
+  - media
 ---
 
 On AT5:
