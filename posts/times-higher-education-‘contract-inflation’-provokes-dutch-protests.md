@@ -5,7 +5,7 @@ author: Casual UvA
 summary: '"Demonstrators push back against ‘exploitation’ of those struggling at
   the bottom of a sector seen as increasingly casualised"'
 tags:
-  - post
+  - media
 ---
 Times Higher Education: "Demonstrators push back against ‘exploitation’ of those struggling at the bottom of a sector seen as increasingly casualised"
 
