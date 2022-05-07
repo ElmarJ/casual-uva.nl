@@ -6,7 +6,7 @@ summary: 'Folia: "Interdisciplinary social science students want to support the
   teachers who are on a marking strike. On Good Friday, they started a ‘spam
   action’."'
 tags:
-  - post
+  - media
 ---
 Folia:
 
