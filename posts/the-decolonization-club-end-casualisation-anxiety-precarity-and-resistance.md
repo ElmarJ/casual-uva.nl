@@ -1,7 +1,7 @@
 ---
 title: 'The Decolonization Club: "End Casualisation: Anxiety, Precarity, and
   Resistance"'
-date: 2022-05-07T21:58:32.968Z
+date: 2022-05-01T21:58:32.968Z
 author: Casual UvA
 summary: 'Read "End Casualisation: Anxiety, Precarity, and Resistance", an essay
   by Lukas Ziel about casualization and the Casual UvA strike: "The worst
