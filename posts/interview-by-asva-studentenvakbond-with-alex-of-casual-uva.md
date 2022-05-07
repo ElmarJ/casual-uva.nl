@@ -2,7 +2,11 @@
 title: Interview by ASVA Studentenvakbond with Alex of Casual UvA
 date: 2022-05-03T22:12:09.413Z
 author: Anonymous
-summary: See the full interview on instagram
+summary: 'ASVA on Instagram: "Today, on labour day, we consider the fight for
+  better working conditions. How schools treat teachers also impacts students.
+  Therefore we stand with Casual UvA in their fight for permanent contracts and
+  better working conditions. Since there are a lot of questions from students,
+  we asked one of the people behind Casual UvA, Alex, some questions!"'
 tags:
   - post
 ---
