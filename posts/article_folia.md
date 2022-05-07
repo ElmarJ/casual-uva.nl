@@ -6,6 +6,8 @@ author: Casual UvA
 summary: 'Folia: "Casual UvA, een actiegroep met zo’n twintig medewerkers met
   een tijdelijk contract, houdt in blok 4 een nakijkstaking om aandacht te
   vragen voor de positie van medewerkers met tijdelijke aanstellingen."'
+tags:
+  - media
 ---
 
 In _Folia_ of April 1:
