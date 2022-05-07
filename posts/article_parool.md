@@ -7,6 +7,8 @@ summary: 'Het Parool writes: "Junior docenten aan de Universiteit van Amsterdam
   (UvA) verdienen een betere behandeling, vindt de actiegroep Casual UvA. Vaak
   moeten ze na drie jaarcontracten verplicht vertrekken. Uit protest stoppen
   tientallen docenten voorlopig met nakijken."'
+tags:
+  - media
 ---
 In *Het Parool* of April 3:
 
