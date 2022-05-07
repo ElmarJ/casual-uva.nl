@@ -2,7 +2,12 @@
 title: Message to our Students
 date: 2022-04-30T12:53:00.000Z
 author: Casual UvA
-summary: "A letter to the students of the striking departments: \"Thank you for your solidarity and patience as we work towards an outcome for better education. We also understand that some of you may be frustrated by delayed grades, and apologise for the inconvenience this may cause.\""
+summary: 'A letter to the students of the striking departments: "Thank you for
+  your solidarity and patience as we work towards an outcome for better
+  education. We also understand that some of you may be frustrated by delayed
+  grades, and apologise for the inconvenience this may cause."'
+tags:
+  - updates
 ---
 
 Dear students,
