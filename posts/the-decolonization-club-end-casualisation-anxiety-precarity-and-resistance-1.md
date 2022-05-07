@@ -3,12 +3,11 @@ title: 'The Decolonization Club: "End Casualisation: Anxiety, Precarity, and
   Resistance"'
 date: 2022-05-01T21:58:32.968Z
 author: Casual UvA
-summary: 'Read "End Casualisation: Anxiety, Precarity, and Resistance", an essay
-  by Lukas Ziel about casualization and the Casual UvA strike: "The worst
-  effects of casualisation are felt by already marginalised lecturers, gendered
-  and racial pay gaps exacerbating already precarious conditions. And as so very
-  often, the university is more concerned with attention being called to the
-  problem, rather than with the problem itself."'
+summary: 'Lukas Ziel of The Decolonization Club writes about Casual UvA: "The
+  worst effects of casualisation are felt by already marginalised lecturers,
+  gendered and racial pay gaps exacerbating already precarious conditions. And
+  as so very often, the university is more concerned with attention being called
+  to the problem, rather than with the problem itself."'
 tags:
   - post
 ---
