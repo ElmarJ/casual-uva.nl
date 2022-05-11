@@ -8,7 +8,7 @@ summary: 'Nationale Onderwijsgids: "Sinds een paar weken hebben meerdere
   Dit doen ze uit onvrede over de tijdelijke aanstellingen waar de UvA mee
   werkt.” '
 tags:
-  - post
+  - media
 ---
 **UvA-docenten stoppen met nakijken om aandacht te vragen voor tijdelijke contracten**
 
