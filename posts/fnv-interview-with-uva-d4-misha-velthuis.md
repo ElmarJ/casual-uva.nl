@@ -1,7 +1,7 @@
 ---
 title: 'FNV: Interview with UvA "D4" Misha Velthuis'
-date: 2022-05-11T09:40:30.638Z
-author: Anonymous
+date: 2022-05-03T09:40:30.638Z
+author: Casual UvA
 summary: "Misha in interview by FNV: “Het grootste probleem is dat Junior
   Docenten die bij ons veel onderwijs verzorgen iedere 3 jaar vervangen worden
   door andere Junior Docenten. Zij worden niet in vaste dienst genomen.
