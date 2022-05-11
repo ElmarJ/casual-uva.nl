@@ -7,7 +7,7 @@ summary: >-
 
   Tomorrow from 12:30 to 14:30 in front of the Acdemiegebouw in Utrecht. CAO negotiations are taking place between the unions and universities and it is important we show up and show out! 
 tags:
-  - post
+  - updates
 ---
 DEMONSTRATION NOTICE ⏰⏰⏰
 Tomorrow from 12:30 to 14:30 in front of the Acdemiegebouw in Utrecht. CAO negotiations are taking place between the unions and universities and it is important we show up and show out! 
