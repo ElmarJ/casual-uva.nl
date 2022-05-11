@@ -7,7 +7,7 @@ summary: "Misha in interview by FNV: “Het grootste probleem is dat Junior
   door andere Junior Docenten. Zij worden niet in vaste dienst genomen.
   Daarnaast is er sprake van systematisch overwerk”."
 tags:
-  - post
+  - media
 ---
 By the Dutch Labour Union FNV:
 
