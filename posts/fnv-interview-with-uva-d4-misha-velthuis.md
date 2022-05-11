@@ -8,6 +8,7 @@ summary: "Misha in interview by FNV: “Het grootste probleem is dat Junior
   Daarnaast is er sprake van systematisch overwerk”."
 tags:
   - media
+  - support
 ---
 By the Dutch Labour Union FNV:
 
