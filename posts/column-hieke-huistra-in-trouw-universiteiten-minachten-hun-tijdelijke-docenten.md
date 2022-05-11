@@ -10,7 +10,8 @@ summary: 'Huistra: "Wat is dan wel het grootste schandaal? Een goede kandidaat:
   universitaire onderwijs instorten. En toch worden ze behandeld als
   wegwerpwerknemers."'
 tags:
-  - post
+  - media
+  - support
 ---
 Hieke Huistra in Trouw of May 7:
 
