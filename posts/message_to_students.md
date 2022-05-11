@@ -8,6 +8,7 @@ summary: 'A letter to the students of the striking departments: "Thank you for
   grades, and apologise for the inconvenience this may cause."'
 tags:
   - updates
+  - students
 ---
 
 Dear students,
