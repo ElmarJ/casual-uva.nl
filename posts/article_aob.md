@@ -7,6 +7,7 @@ summary: 'AOB: "Several employees at the University of Amsterdam (UvA) have
   lecturers. The promotion has been proclaimed by Casual UvA."'
 tags:
   - media
+  - support
 ---
 Algemene Onderwijsbond:
 
