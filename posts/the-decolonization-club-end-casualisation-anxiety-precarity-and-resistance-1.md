@@ -9,7 +9,8 @@ summary: 'Lukas Ziel of The Decolonization Club writes about Casual UvA: "The
   as so very often, the university is more concerned with attention being called
   to the problem, rather than with the problem itself."'
 tags:
-  - post
+  - media
+  - support
 ---
 **End Casualisation: Anxiety, Precarity, and Resistance**
 
