@@ -7,7 +7,8 @@ summary: "Casual UvA, een actiegroep met zo’n honderd medewerkers met een
   actiegroep geen vertrouwen heeft in de inwilliging van de eisen. Dat is
   tijdens een vergadering op woensdag besloten. "
 tags:
-  - media support
+  - media
+  - support
 ---
 De organisatie zegt vanuit de UvA te weinig transparantie te zien over de inwilliging van de eisen. Casual UvA ziet wel dat er mogelijkheden zijn, maar zoals het er nu voor staat ‘zijn te veel van onze vragen onbeantwoord, en te veel van onze eisen genegeerd’, aldus een persbericht. 
 
