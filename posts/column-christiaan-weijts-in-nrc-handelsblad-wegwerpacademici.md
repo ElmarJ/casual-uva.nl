@@ -7,7 +7,7 @@ summary: 'Weijts: "Het is geen gúnst die hij en zijn collega’s uit Leiden en
   Academiegebouw. Een van de eisen is dat ze domweg de wettelijke regelingen
   toepassen. Na maximaal drie losse contracten hoort een vaste te volgen."'
 tags:
-  - post
+  - media
 ---
 Christiaan Weits writes in NRC Handelsblad:
 
