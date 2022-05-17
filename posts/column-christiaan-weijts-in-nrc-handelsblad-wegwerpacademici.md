@@ -1,6 +1,6 @@
 ---
 title: 'Column Christiaan Weijts in NRC Handelsblad: "Wegwerpacademici"'
-date: 2022-05-17T11:50:30.422Z
+date: 2022-05-13T11:50:30.422Z
 author: Casual UvA
 summary: 'Weijts: "Het is geen gúnst die hij en zijn collega’s uit Leiden en
   Amsterdam hier vragen, bij de start van cao-onderhandelingen binnen, in het
