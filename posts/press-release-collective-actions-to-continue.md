@@ -11,7 +11,7 @@ summary: Following a collective vote among the striking departments—based on t
   within 15 working days. Further, our marking strike action will now apply to
   Block 5 grades with immediate effect.
 tags:
-  - post
+  - updates
 ---
 
 
