@@ -6,7 +6,8 @@ summary: 'In AOb Nieuws: "Structureel werk moet een vast contract betekenen.
   ‘Regel dat in de cao’, was de oproep van de actievoerders op het Utrechtse
   Domplein aan de cao-onderhandelaars."'
 tags:
-  - post
+  - media
+  - support
 ---
 In AOb Nieuws:
 
