@@ -1,6 +1,6 @@
 ---
 title: 'AOb Nieuws: "Actie voor vaste contracten op universiteiten"'
-date: 2022-05-17T11:45:58.389Z
+date: 2022-05-12T11:45:58.389Z
 author: Casual UvA
 summary: 'In AOb Nieuws: "Structureel werk moet een vast contract betekenen.
   ‘Regel dat in de cao’, was de oproep van de actievoerders op het Utrechtse
