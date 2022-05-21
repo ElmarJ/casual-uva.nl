@@ -9,6 +9,8 @@ summary: >
 tags:
   - updates
 ---
+![PUBLIC MEETING CAO NEGOTIATIONS: WEDNESDAY MAY 25 @ 17 - UVA ROETERSEILANDCAMPUS - REC B2.02](/static/img/ftm3truxsaa2hjm.jpg "Call for public meeting CAO Negotiations: May 25, 17.00, REC B2.02")
+
 **Call for a public meeting** about the draft agreement for the new Collective Labour Agreement (CAO) 2022-2023, **open to ALL UNION MEMBERS AND UNIVERSITY EMPLOYEES: Wednesday 25th May, 17.00**
 
 The Dutch trade unions in higher education came to a draft collective labour agreement (CAO) with the universities last week. It does not offer an acceptable way forward to address the precarious position of university workers on temporary contracts, especially for Docenten. It only mentions a shared ambition to conduct a “joint study” of the issue, results of which to be discussed in 2023. No commitments have been made by the employers about the speed or scale of this study, or the nature of the actions they aim to take once the research has been carried out. 
