@@ -39,6 +39,6 @@ Casual UvA
 
 
 
-**Striking Departments**: Anthropology, Sociology, Political Science, Interdisciplinary Social Science (ISW), Future Planet Studies, Béta Gamma, Human Geography, Communication Science*
+**Striking Departments**: Anthropology, Sociology, Political Science, Interdisciplinary Social Science (ISW), Future Planet Studies, Béta Gamma, Human Geography, Communication Science
 
-**With Support From**: Media Studies, PPLE, Psychology, Psychobiology, Artificial Intelligence, Information Sciences*
+**With Support From**: Media Studies, PPLE, Psychology, Psychobiology, Artificial Intelligence, Information Sciences
