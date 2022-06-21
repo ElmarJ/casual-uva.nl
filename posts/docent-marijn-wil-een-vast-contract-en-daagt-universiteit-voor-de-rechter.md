@@ -1,14 +1,15 @@
 ---
-title: '"Docent Marijn wil een vast contract en daagt universiteit voor de rechter"'
+title: "RTL Nieuws: Docent Marijn wil een vast contract en daagt universiteit
+  voor de rechter"
 date: 2022-06-18T12:06:00.000Z
 author: Casual UvA
-summary: 'RTL Nieuws: "Een wegwerpdocent voelt hij zich. Vol enthousiasme gaf
-  docent Marijn Scholte de afgelopen vier jaar les aan de faculteit Sociale
-  Wetenschappen van de Universiteit Utrecht. Zijn studenten waren enthousiast,
-  de beoordelingen goed. Toch werd zijn contract niet verlengd. Beleid, aldus de
-  universiteit. Docenten die geen onderzoek doen, krijgen geen vast contract.
-  Werk was er wel, een opvolger is aangenomen. Reden voor Scholte om naar de
-  rechter te stappen. Hij wil zijn baan terug."'
+summary: '"Een wegwerpdocent voelt hij zich. Vol enthousiasme gaf docent Marijn
+  Scholte de afgelopen vier jaar les aan de faculteit Sociale Wetenschappen van
+  de Universiteit Utrecht. Zijn studenten waren enthousiast, de beoordelingen
+  goed. Toch werd zijn contract niet verlengd. Beleid, aldus de universiteit.
+  Docenten die geen onderzoek doen, krijgen geen vast contract. Werk was er wel,
+  een opvolger is aangenomen. Reden voor Scholte om naar de rechter te stappen.
+  Hij wil zijn baan terug."'
 tags:
   - media
 ---
