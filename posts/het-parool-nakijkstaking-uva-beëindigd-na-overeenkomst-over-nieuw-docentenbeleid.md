@@ -1,13 +1,13 @@
 ---
 title: 'Het Parool: "Nakijkstaking UvA beëindigd na overeenkomst over nieuw
   docentenbeleid"'
-date: 2022-06-23T11:54:32.594Z
-author: Anonymous
+date: 2022-06-07T11:54:32.594Z
+author: Casual UvA
 summary: '"Docenten van de UvA die de afgelopen acht weken in nakijkstaking
   waren, pakken hun werk weer op. Het nieuwe docentenbeleid dat de universiteit
   heeft vastgesteld komt hun eisen voldoende tegemoet."'
 tags:
-  - post
+  - media
 ---
 Parool:
 
