@@ -17,4 +17,4 @@ Vooral onder junior docenten, die van de universiteit vaak enkel jaarcontracten 
 
 In een verklaring laat collectief Casual UvA dinsdag weten tot een overeenkomst te zijn gekomen met het bestuur van de universiteit. Als alles rond is, zijn er [vanaf komend collegejaar](https://www.parool.nl/amsterdam/uva-stopt-met-jaarcontract-voor-juniordocenten-we-doen-het-als-werkgever-niet-goed~b4a085fd/) geen jaarcontracten meer voor junior docenten, maar een aanstelling van 0,8 of 1 fte en een arbeidsovereenkomst voor minimaal vier jaar met tijd voor voorbereiding en professionalisering. Daarmee komt de universiteit voor een groot gedeelte tegemoet aan de wensen van de actievoerders.
 
-Read the full article \[on the Parool website](https://www.parool.nl/amsterdam/nakijkstaking-uva-beeindigd-na-overeenkomst-over-nieuw-docentenbeleid~bf41fa89/)
+Read the full article [on the Parool website](https://www.parool.nl/amsterdam/nakijkstaking-uva-beeindigd-na-overeenkomst-over-nieuw-docentenbeleid~bf41fa89/).
