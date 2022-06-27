@@ -38,11 +38,11 @@ With support from:
 
 ## Why?
 
-The strike is about three core issues: teachers ...
+The strike is about three core issues: teachers…
 
-* ... are doing more than what they are paid for (both in terms of tasks and hours),
-* ... are kept on temporary contracts,
-* ... are not getting any/sufficient support in terms of professional development
+* … are doing more than what they are paid for (both in terms of tasks and hours),
+* … are kept on temporary contracts,
+* … are not getting any/sufficient support in terms of professional development
 
 ## Why now?
 
