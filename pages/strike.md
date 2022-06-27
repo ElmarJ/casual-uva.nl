@@ -12,7 +12,11 @@ We perform a marking strike. We refuse and refrain marking final assignments for
 
 The strike is carried out by so called "D4-teachers", which refers to teachers on a D4-contract. Also referred to as "junior-docenten" or "werkgroepdocenten". To reduce the impact on students, classes continue and feeback is still provided.
 
+Since June 7 2022, [the strike has been suspended](https://casual-uva.nl/posts/casual-uva-to-suspend-strike-and-monitor-implementation/) awaiting the implementation of [the new UvA Lecturer Policy](https://www.uva.nl/en/content/news/news/2022/04/new-uva-lecturer-policy.html).
+
 ## Participating departments/programs:
+
+Striking departments:
 
 * Sociology
 * Anthropology
@@ -21,6 +25,16 @@ The strike is carried out by so called "D4-teachers", which refers to teachers o
 * Future Planet Studies
 * Bèta-Gamma
 * Human Geography
+* Communication Science
+
+With support from:
+
+* Media Studies
+* PPLE
+* Psychology
+* Psychobiology
+* Artificial Intelligence
+* Information Sciences
 
 ## Why?
 
