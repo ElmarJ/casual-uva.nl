@@ -6,6 +6,8 @@ eleventyNavigation:
   order: 2
   key: Demonstration
 ---
+## \#﻿WeAreNotDisposable
+
 1 year since our marking strike, our colleagues are still being replaced. Casual UvA is organizing a demonstration as a first expression of our continuing frustrations. This demonstration is for everyone who supports the movement, and especially those who are unfamiliar with our struggle and who wish to learn. See you all there!
 
 L﻿ocation: Roeterseiland Campus (REC), in front of the ABC building\
