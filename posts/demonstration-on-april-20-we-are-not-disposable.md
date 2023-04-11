@@ -14,4 +14,4 @@ T﻿ime: April 20, 17:00
 
 *M﻿ore information will be available soon.*
 
-![](/static/img/demo_april_20.jpg)
+![](/static/img/demo_april_20_medium.jpg)
