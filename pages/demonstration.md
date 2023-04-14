@@ -19,6 +19,6 @@ T﻿ime: April 20, 17:00
 
 **M﻿aterial:**
 
-D﻿ownload the poster here:
+D﻿ownload the demonstration poster [here](https://casual-uva.nl/static/img/casualuva_20-04-2023-poster_v2.png)
 
-![](/static/img/casualuva_20-04-2023-poster_v2.png)
+*M﻿ore information will be available , check back soon!*
