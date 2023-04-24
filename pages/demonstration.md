@@ -8,10 +8,15 @@ eleventyNavigation:
 ---
 ## \#﻿WeAreNotDisposable
 
-1 year since our marking strike, our colleagues are still being replaced. Casual UvA is organizing a demonstration as a first expression of our continuing frustrations. This demonstration is for everyone who supports the movement, and especially those who are unfamiliar with our struggle and who wish to learn. See you all there!
+### W﻿hat's next: Action Meeting 28/04/23
 
-L﻿ocation: Roeterseiland Campus (REC), in front of the ABC building\
-T﻿ime: April 20, 17:00
+J﻿oin the online meeting where we will discuss our next steps following the demonstration. MEETING INFO: Friday, April 28 @ 17, Zoom: <https://uva-live.zoom.us/j/84611563487>
+
+T﻿his meeting will be a crucial moment where we discuss and vote on our next action(s) together, so we hope to see as many of you there to get a wide range of perspectives from UvA lecturers. Please ask your colleagues to join. The meeting will be fully online.
+
+### A﻿bout the demonstration
+
+1 year since our marking strike, our colleagues are still being replaced. Casual UvA organized a demonstration to express our continuing frustrations on April 20, 2023. Around 150 lecturers and students attended to support the cause. The demonstration was covered in the press by outlets like [AT5](https://www.at5.nl/artikelen/220068/protest-op-de-uva-voor-vaste-contracten-we-zijn-wegwerpdocenten) and [Parool](https://www.parool.nl/amsterdam/weer-protest-tegen-tijdelijke-contracten-uva-wij-zijn-geen-wegwerpdocenten~bd8c1aed/).
 
 <![](/static/img/demo_april_20_medium.jpg)
 
