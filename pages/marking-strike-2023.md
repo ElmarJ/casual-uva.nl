@@ -1,9 +1,9 @@
 ---
 title: Marking Strike 2023
 date: 2023-05-30T15:40:14.436Z
-permalink: strike2023
+permalink: /strike2023/index.html
 eleventyNavigation:
-  order: 2
+  order: 3
   key: Strike 2023
 ---
 ## A marking strike.
