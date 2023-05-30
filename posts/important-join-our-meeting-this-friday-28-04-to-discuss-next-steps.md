@@ -6,7 +6,6 @@ summary: Join the upcoming meeting on Friday 28 April to stay informed about
   Casual UvA's next steps.
 tags:
   - updates
-  - media
 ---
 Following our [demonstration last week](https://casual-uva.nl/demo/), we are organizing a meeting this Friday to collectively decide on our next step(s). All UvA lecturers are welcome to join, those on temporary and permanent contracts.
 
