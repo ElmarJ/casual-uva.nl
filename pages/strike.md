@@ -1,11 +1,13 @@
 ---
-title: Marking strike
+title: 2022 Marking strike
 date: 2017-01-01T00:00:00.000Z
 permalink: /strike/index.html
 eleventyNavigation:
   key: Strike
   order: 3
 ---
+N﻿OTE: This page is about the 2022 marking strike.
+
 ## A marking strike.
 
 We perform a marking strike. We refuse and refrain marking final assignments for Block 4. All other responsibilities and tasks will be carried out, facilitation of education will continue. Note: We  stipulate that any adjacent colleagues cannot be assigned striking individuals’ sections, in principle and in symbol of mediating overwork impact. 
