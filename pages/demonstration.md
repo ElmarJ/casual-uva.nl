@@ -3,7 +3,7 @@ title: Demonstration
 date: 2023-04-11T08:30:40.987Z
 permalink: /demo/index.html
 eleventyNavigation:
-  order: 2
+  order: 3
   key: Demonstration
 ---
 ## \#﻿WeAreNotDisposable
