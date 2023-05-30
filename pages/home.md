@@ -14,3 +14,5 @@ On April 1 2022 [we announced a collective grading strike](/strike/), which has 
 1 year after the strike, we decided to organize a new demonstration on April 20 2023, due to continuing frustrations about our colleagues being replaced during the implementation phase of the new policy. **[We are not disposable!](https://casual-uva.nl/demo/)**
 
 On May 30 2023 we decided to [re-activate the Marking Strike](https://casual-uva.nl/posts/casual-uva-re-activates-marking-strike/).
+
+Several resources, like press announcements and templates for support e-mails, can be found at [our Carrd-page](https://casualuva.carrd.co/).
