@@ -1,7 +1,7 @@
 ---
 title: Casual UvA re-activates Marking Strike
 date: 2023-05-30T15:00:18.403Z
-author: Anonymous
+author: Casual UvA
 summary: After a year of close monitoring, we are dissatisfied with the
   implementation, and as a resultwith the policy itself, namely the
   discrepancies between departments and lack of thegenerous application that was
