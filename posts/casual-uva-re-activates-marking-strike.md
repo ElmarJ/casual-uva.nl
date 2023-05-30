@@ -10,9 +10,9 @@ summary: After a year of close monitoring, we are dissatisfied with the
 tags:
   - post
 ---
-In 2022, after eight weeks of a marking strike performed by over 120 junior lecturers across eight departments, Casual UvA - in good faith and a spirit of partnership - agreed to suspend the action following the introduction of a new central HR lecturer policy. Such a move wasunder the condition of closely monitoring the implementation of the new lecturer policy,paying careful attention to how specifics would be taken up across departments.
+In 2022, after eight weeks of a marking strike performed by over 120 junior lecturers across eight departments, Casual UvA - in good faith and a spirit of partnership - agreed to suspend the action following the introduction of a new central HR lecturer policy. Such a move was under the condition of closely monitoring the implementation of the new lecturer policy, paying careful attention to how specifics would be taken up across departments.
 
-After a year of close monitoring, we are dissatisfied with the implementation, and as a resultwith the policy itself, namely the discrepancies between departments and lack of thegenerous application that was communicated. While we suspended in good faith, we do notfeel such faith was reciprocated. **Thus, we re-activate the action.**
+After a year of close monitoring, we are dissatisfied with the implementation, and as a result with the policy itself, namely the discrepancies between departments and lack of the generous application that was communicated. While we suspended in good faith, we do not feel such faith was reciprocated. **Thus, we re-activate the action.**
 
 ## Demonstration - Marking Strike
 
