@@ -14,13 +14,13 @@ In 2022, after eight weeks of a marking strike performed by over 120 junior lect
 
 After a year of close monitoring, we are dissatisfied with the implementation, and as a resultwith the policy itself, namely the discrepancies between departments and lack of thegenerous application that was communicated. While we suspended in good faith, we do notfeel such faith was reciprocated. **Thus, we re-activate the action.**
 
-# Demonstration - Marking Strike
+## Demonstration - Marking Strike
 
-## W﻿hat is our aim?
+### W﻿hat is our aim?
 
 To perform a marking strike. We will withhold grades for final assignments of Block 5. All other responsibilities and tasks will be carried out, facilitation of education will continue. Note: We stipulate that any adjacent colleagues cannot be assigned striking individuals’ sections, in principle and in the principle of mediating overwork impact.
 
-## What are our demands?
+### What are our demands?
 
 1. P﻿ermanent Contracts
 2. P﻿rofessional Development
