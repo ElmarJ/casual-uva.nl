@@ -6,7 +6,6 @@ eleventyNavigation:
   key: Objectives
   order: 2
 ---
-
-- To address systemic overwork and exploitation.
-- To promote visibility of issues experienced by those on temporary teaching contracts
-- To petition and demand for the implementation of changes/ better working conditions for temporary contract teachers.
+* permanent contracts for structural work 
+* workload transparency
+* professionalization opportunities
