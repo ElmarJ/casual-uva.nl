@@ -1,10 +1,10 @@
 ---
-title: Demonstration 2022
+title: Demonstration 2023
 date: 2023-04-11T08:30:40.987Z
 permalink: /demo/index.html
 eleventyNavigation:
   order: 9
-  key: Demonstration 2022
+  key: Demonstration 2023
 ---
 ## \#﻿WeAreNotDisposable
 
