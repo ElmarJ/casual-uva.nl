@@ -15,4 +15,4 @@ On April 1 2022 [we announced a collective grading strike](/strike/), which has 
 
 On May 30 2023 we decided to [re-activate the Marking Strike](https://casual-uva.nl/posts/casual-uva-re-activates-marking-strike/).
 
-Several resources, like press announcements and templates for support e-mails, can be found at [our Carrd-page](https://casualuva.carrd.co/).
+Resources such as press announcements and templates for support e-mails, can be found at [our Carrd-page](https://casualuva.carrd.co/).
