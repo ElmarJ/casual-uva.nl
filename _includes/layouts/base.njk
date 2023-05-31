@@ -4,13 +4,16 @@
 	<body>
 		<header>
 			<p>
-				<img src="/static/img/logo.jpg" alt="Casual UvA (logo)" height="100px" width="100px">
+				<img src="/static/img/logo.jpg" alt="Casual UvA (logo)" height="100" width="100">
 			</p>
 			<h1 class="title">{{ metadata.title }}</h1>
 			{% include "components/nav.njk" %}
 		</header>
 		<section class="tiktok">
+			<h2>TikTok</h2>
 			{% include "components/tiktokfeed.njk" %}
+			<h2>Instagram</h2>
+			{% include "components/instagramfeed.njk" %}
 		</section>
 		<section class="tweets">
 			<h2>Twitter</h2>
