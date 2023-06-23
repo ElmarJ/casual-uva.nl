@@ -41,3 +41,5 @@ Meet & greet with casuals and unions
 ## F﻿lyer?
 
 [Y﻿es!! Here!! ](static/img/marking-strike-cao-demonstration-266-1.pdf)
+
+![](/static/img/solidarity_unions.png)
