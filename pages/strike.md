@@ -1,7 +1,7 @@
 ---
 title: Marking strike 2022
 date: 2017-01-01T00:00:00.000Z
-permalink: /strike/index.html
+permalink: /strike2022/index.html
 eleventyNavigation:
   key: "2022"
   order: 11
