@@ -1,7 +1,7 @@
 ---
 title: Archive
 date: 2026-04-10T15:01:15.800Z
-permalink: archive/index.html
+permalink: /archive/index.html
 eleventyNavigation:
   order: 2
   key: Archive
