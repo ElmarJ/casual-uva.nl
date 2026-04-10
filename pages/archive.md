@@ -5,6 +5,6 @@ permalink: archive
 eleventyNavigation:
   order: ""
 ---
-2﻿023
+[2﻿023](https://casual-uva.nl/marking-strike-2023/index.html)
 
 [2022](https://casual-uva.nl/strike2022/index.html)
