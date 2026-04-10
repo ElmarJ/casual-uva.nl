@@ -13,15 +13,11 @@ We are a collective of employees on temporary contracts, including representativ
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
-On **April 14 from 16:00-17:00**, on the **Roeterseiland lawn behind the L building**, we will hand over the petition to Prof. Peter-Paul Verbeek, who has agreed to represent the UvA’s Executive Board (CvB).<!--StartFragment-->
+On **April 14 2026 from 16:00-17:00**, on the **Roeterseiland lawn behind the L building**, we will hand over the petition to Prof. Peter-Paul Verbeek, who has agreed to represent the UvA’s Executive Board (CvB).<!--StartFragment-->
 
 Our goal is to submit a petition with the most signatures possible. For that, we need your help.
-
- 
 
 Collective action depends on sustained engagement and structured communication. Your continued involvement at this stage is crucial. There are three things you can do in particular:
 
