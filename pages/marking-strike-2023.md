@@ -3,8 +3,8 @@ title: Marking strike 2023
 date: 2023-05-30T15:40:14.436Z
 permalink: /marking-strike-2023/index.html
 eleventyNavigation:
-  order: 12
-  key: "2023"
+  order: ""
+  key: ""
 ---
 ## A marking strike.
 
