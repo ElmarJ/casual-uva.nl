@@ -3,7 +3,7 @@ title: "Folia: “End the insecurity for junior lecturers and give them permanen
   contracts”"
 date: 2026-04-10T14:39:49.321Z
 author: Anonymous
-summary: Folia
+summary: Read the article now.
 tags:
   - post
 ---
