@@ -1,17 +1,30 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
+date: 2018-01-01
 metaDescription: ""
 section: contact
-date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
   order: 3
 ---
+Join our WhatsApp group: <!--StartFragment-->
 
-Join email distribution list: https://lists.riseup.net/www/subscribe/casualuva
+[WhatsApp Group Invite](https://chat.whatsapp.com/D09F1qxcieHHG1t7lqAuGg?mode=gi_t)
 
-Contact us via casualuva@gmail.com or use the form below:
+<!--EndFragment-->
+
+
+
+O﻿r join our Signal group: <!--StartFragment-->
+
+[Signal Group](https://signal.group/#CjQKIDjj43FdvaGDRrah0gFKlQOss-sPC7yVLIYHM2oWpVZZEhC3bWAPOangFZvo1aFsAQii)
+
+<!--EndFragment-->
+
+
+
+Contact us via ask.casualuva@gmail.com or use the form below:
 
 ## Contact form
