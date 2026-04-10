@@ -3,8 +3,8 @@ title: Marking strike 2022
 date: 2017-01-01T00:00:00.000Z
 permalink: /strike/index.html
 eleventyNavigation:
-  key: Strike 2022
-  order: 10
+  key: "2022"
+  order: 11
 ---
 N﻿OTE: This page is about the 2022 marking strike.
 
