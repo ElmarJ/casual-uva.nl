@@ -5,4 +5,6 @@ permalink: archive
 eleventyNavigation:
   order: ""
 ---
-A﻿rchive
+2﻿023
+
+[2022](https://casual-uva.nl/strike2022/index.html)
