@@ -15,7 +15,7 @@ eleventyNavigation:
 
 Join Casual UvA’s demonstration for secure employment for lecturers.
 
-Nov 25 · 12:00-14:00 · REC grassfield
+Nov 25 2026 · 12:00-14:00 · REC grassfield
 
  
 
