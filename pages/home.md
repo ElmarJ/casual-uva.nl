@@ -45,4 +45,16 @@ Want to help organise or distribute flyers? Contact us at [ask.casualuva@gmail.c
 
 On **April 14 2026** we handed over our petition demanding permanent contracts for junior lecturers, to Prof. Peter-Paul Verbeek, who has agreed to represent the UvA’s Executive Board (CvB).
 
+<!--StartFragment-->
+
+Join our WhatsApp group:
+
+[WhatsApp Group Invite](https://chat.whatsapp.com/D09F1qxcieHHG1t7lqAuGg?mode=gi_t)
+
+O﻿r join our Signal group:
+
+[Signal Group](https://signal.group/#CjQKIDjj43FdvaGDRrah0gFKlQOss-sPC7yVLIYHM2oWpVZZEhC3bWAPOangFZvo1aFsAQii)
+
+<!--EndFragment-->
+
 <!--EndFragment-->
